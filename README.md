@@ -12,9 +12,9 @@
 ---
 
 ## 🧰 Compétences techniques / Technical Skills  
-- **Langages / Languages:** JavaScript (ES6), C#, Python, PHP, SQL  
-- **Frameworks & Technologies:** React.js *(in progress)*, Node.js, ASP.NET MVC  
-- **Outils / Tools:** n8n, Supabase, Git, VS Code, Azure DevOps  
+- **Langages / Languages:** JavaScript (ES6), C#, 🐍Python, PHP, SQL  
+- **Frameworks & Technologies:** 🟦React.js *(in progress)*, 🟩Node.js, ⚙️ASP.NET MVC  
+- **Outils / Tools:** ☁️n8n, Supabase, Git, VS Code, Azure DevOps  
 - **Front-end:** HTML5, CSS3, Bootstrap  
 
 ---
@@ -23,7 +23,7 @@
 - 🧠 **AI Resume Analyzer** – Application web d’analyse de CV avec automatisation n8n + front React  
   *(Web app for CV analysis using n8n automation and React front-end)*  
 
-- 📦 **Application de livraison** – ASP.NET MVC (C#) + MySQL : gestion des profils et suivi des colis  
+- 📦 **Application de livraison** – ⚙️ASP.NET MVC (C#) + MySQL : gestion des profils et suivi des colis  
   *(Delivery management web app built with ASP.NET MVC and MySQL)*  
 
 - ⚙️ **Automatisation d’entreprise** – Création de workflows automatisés avec n8n  
